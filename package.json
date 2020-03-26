@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/AnnaLangner/SudokuGame/issues"
   },
-  "homepage": "https://github.com/AnnaLangner/SudokuGame#readme"
+  "homepage": "https://github.com/AnnaLangner/SudokuGame#readme",
+  "dependencies": {
+    "sudoku-umd": "^1.0.1"
+  }
 }
